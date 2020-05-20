@@ -1,0 +1,82 @@
+group,variable,value
+X1,X9 Internet User Rate ,0.1964
+X1,X8 International Arrivals ,0.6649
+X1,X7 Education Index,0.2085
+X1,X6 Corruption Perception Score,0.2126
+X1,X5 Billionaire Population,0.9497
+X1,X4 Female Population Rate,0.0152
+X1,X3 Employment Rate,0.0012
+X1,X2 Income Index,0.2298
+X1,X1 GDP,1
+X2,X9 Internet User Rate ,0.8779
+X2,X8 International Arrivals ,0.3944
+X2,X7 Education Index,0.8315
+X2,X6 Corruption Perception Score,0.6848
+X2,X5 Billionaire Population,0.2004
+X2,X4 Female Population Rate,-0.2472
+X2,X3 Employment Rate,-0.2392
+X2,X2 Income Index,1
+X2,X1 GDP,0.2298
+X3,X9 Internet User Rate ,-0.1986
+X3,X8 International Arrivals ,-0.1067
+X3,X7 Education Index,-0.2579
+X3,X6 Corruption Perception Score,-0.0331
+X3,X5 Billionaire Population,0.0116
+X3,X4 Female Population Rate,-0.2604
+X3,X3 Employment Rate,1
+X3,X2 Income Index,-0.2392
+X3,X1 GDP,0.0012
+X4,X9 Internet User Rate ,-0.1748
+X4,X8 International Arrivals ,0.0286
+X4,X7 Education Index,0.0518
+X4,X6 Corruption Perception Score,-0.0942
+X4,X5 Billionaire Population,0.0062
+X4,X4 Female Population Rate,1
+X4,X3 Employment Rate,-0.2604
+X4,X2 Income Index,-0.2472
+X4,X1 GDP,0.0152
+X5,X9 Internet User Rate ,0.1704
+X5,X8 International Arrivals ,0.5945
+X5,X7 Education Index,0.1842
+X5,X6 Corruption Perception Score,0.2047
+X5,X5 Billionaire Population,1
+X5,X4 Female Population Rate,0.0062
+X5,X3 Employment Rate,0.0116
+X5,X2 Income Index,0.2004
+X5,X1 GDP,0.9497
+X6,X9 Internet User Rate ,0.7058
+X6,X8 International Arrivals ,0.2961
+X6,X7 Education Index,0.6617
+X6,X6 Corruption Perception Score,1
+X6,X5 Billionaire Population,0.2047
+X6,X4 Female Population Rate,-0.0942
+X6,X3 Employment Rate,-0.0331
+X6,X2 Income Index,0.6848
+X6,X1 GDP,0.2126
+X7,X9 Internet User Rate ,0.839
+X7,X8 International Arrivals ,0.3544
+X7,X7 Education Index,1
+X7,X6 Corruption Perception Score,0.6617
+X7,X5 Billionaire Population,0.1842
+X7,X4 Female Population Rate,0.0518
+X7,X3 Employment Rate,-0.2579
+X7,X2 Income Index,0.8315
+X7,X1 GDP,0.2085
+X8,X9 Internet User Rate ,0.3663
+X8,X8 International Arrivals ,1
+X8,X7 Education Index,0.3544
+X8,X6 Corruption Perception Score,0.2961
+X8,X5 Billionaire Population,0.5945
+X8,X4 Female Population Rate,0.0286
+X8,X3 Employment Rate,-0.1067
+X8,X2 Income Index,0.3944
+X8,X1 GDP,0.6649
+X9,X9 Internet User Rate ,1
+X9,X8 International Arrivals ,0.3663
+X9,X7 Education Index,0.839
+X9,X6 Corruption Perception Score,0.7058
+X9,X5 Billionaire Population,0.1704
+X9,X4 Female Population Rate,-0.1748
+X9,X3 Employment Rate,-0.1986
+X9,X2 Income Index,0.8779
+X9,X1 GDP,0.1964
